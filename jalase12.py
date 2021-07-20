@@ -48,3 +48,9 @@ sentence = input('inter sentence : ')
 for i , j in v.items():
     j = sentence.count(i)
     print(i , j)
+    
+    
+    
+    
+    
+    
