@@ -4,3 +4,4 @@
 اموزش پایتون
 
 برای دیدن تمرینات به برنچ تست مراجعه کنید:
+https://github.com/ahmadreza1383/Python_Class/tree/test
