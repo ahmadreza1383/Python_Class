@@ -1,6 +1,5 @@
 # فایل های اموزشی کلاس
 در اینجا فایل های اموزشی  پایتون قرار داده شده 
 * برای رفتن به قسمت تمرینات پایتون کلیک کنید:
-https://github.com/ahmadreza1383/Python_Class/tree/test
-
+[قسمت تمرینات](https://github.com/ahmadreza1383/Python_Class/tree/test)
 
