@@ -7,3 +7,7 @@
 ### راه حل
 
 * کد زیر را در ترمینال وارد کنید
+
+```bash
+sudo apt-get install python3-tk 
+```
