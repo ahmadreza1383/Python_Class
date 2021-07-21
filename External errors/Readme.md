@@ -6,4 +6,4 @@
  __عنوان خطا ها__
 
 * ImportError: No module named 'Tkinter'
-برای بررسی خطا (https://github.com/ahmadreza1383/Python_Class/blob/Error/External%20errors/No%20module%20named%20Tkinter.md)[کلیک کنید]
+[کلیک کنید](https://github.com/ahmadreza1383/Python_Class/blob/Error/External%20errors/No%20module%20named%20Tkinter.md)
