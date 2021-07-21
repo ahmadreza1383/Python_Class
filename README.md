@@ -5,3 +5,6 @@
 
 * [قسمت تمرینات](https://github.com/ahmadreza1383/Python_Class/tree/test)
 
+__برای دیدن تمرینات به برنچ تست مراجعه کنید__
+
+* [قسمت تمرینات](https://github.com/ahmadreza1383/Python_Class/tree/test)
