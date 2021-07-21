@@ -7,8 +7,7 @@ __خلاصه توضیحات__
 
 ```NameDic.items()
 for i , j in NameDic.items():
-    print(j , i)
-```
+    print(j , i)```
 
 |---------------------------|
 
