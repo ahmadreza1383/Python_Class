@@ -16,7 +16,12 @@ for i , j in foods.items():
 
 * از کانت برای بررسی تعداد یک کاراکتر استفاده میکنیم
 
-```count()```
+```bash
+sentence = input('inter sentence : ')
+for i , j in v.items():
+    j = sentence.count(i)
+    print(i , j)
+```
 
 |---------------------------|
 
