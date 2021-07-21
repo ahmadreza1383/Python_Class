@@ -9,6 +9,6 @@
 
 * ImportError: No module named 'Tkinter'
 
-[کلیک کنید](https://github.com/ahmadreza1383/Python_Class/blob/Error/External%20errors/No%20module%20named%20Tkinter.md)
+    [کلیک کنید](https://github.com/ahmadreza1383/Python_Class/blob/Error/External%20errors/No%20module%20named%20Tkinter.md)
 
 |-----------------------|
