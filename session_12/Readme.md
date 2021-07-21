@@ -8,4 +8,6 @@ __خلاصه توضیحات__
 
 
 * از ست دیفالت برای اضافه کردن یک اندیس یا جایگاه به دیکشنری استفاده میکنیم . کار به این صورت است که اگه مقدار کلید وجود داشت ست دیفالت کاری نمیکنه ولی اگه وجود نداشت مقدار جدید رو اضافه میکنه
-<script async defer src="https://buttons.github.io/buttons.js></script>
+
+
+[fork my repository](https://github.com/user/repository/fork)
