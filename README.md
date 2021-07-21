@@ -11,6 +11,7 @@ __برای دیدن تمرینات به برنچ تست مراجعه کنید__
 __برای دیدن فایل های اموزشی  به برنچ کلس مراجعه کنید__
 
 * [قسمت اموزش](https://github.com/ahmadreza1383/Python_Class/tree/class)
+
 __برای رفع خطاها ی پایتون به برنچ ارور مراجعه کنید__
 
 * [قسمت خطاها](https://github.com/ahmadreza1383/Python_Class/tree/Error)
