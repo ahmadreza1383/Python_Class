@@ -5,6 +5,6 @@
 
 * [قسمت تمرینات](https://github.com/ahmadreza1383/Python_Class/tree/test)
 
-__برای دیدن تمرینات به برنچ تست مراجعه کنید__
+ __برای رفع خطا ها و مشکلات پایتون کلیک کنید__ 
 
-* [قسمت تمرینات](https://github.com/ahmadreza1383/Python_Class/tree/test)
+* [قسمت خطاها](https://github.com/ahmadreza1383/Python_Class/tree/Error)
