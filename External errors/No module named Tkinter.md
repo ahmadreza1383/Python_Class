@@ -8,6 +8,6 @@
 
 * کد زیر را در ترمینال وارد کنید
 
-```bash
+```push
 sudo apt-get install python3-tk 
 ```
