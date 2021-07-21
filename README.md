@@ -2,5 +2,6 @@
 تمرینات اموزشی در  این قسمت قرار داده میشود
 
 * برای رفتن به اموزشات پایتون کلیک کنید:
-[قسمت اموزش](https://github.com/ahmadreza1383/Python_Class/tree/class)
+
+* [قسمت اموزش](https://github.com/ahmadreza1383/Python_Class/tree/class)
 
