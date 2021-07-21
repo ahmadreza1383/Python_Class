@@ -5,4 +5,4 @@
 
  __عنوان خطا ها__
 
-ImportError: No module named 'Tkinter'
+* ImportError: No module named 'Tkinter'
