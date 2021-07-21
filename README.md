@@ -15,6 +15,6 @@ __ برای رفتن به قسمت اموزشات پایتون کلیک کنید
 ### نوع خطاها 
 
 
-* [ ](https://github.com/ahmadreza1383/Python_Class/tree/class)
+* [ External errors](https://github.com/ahmadreza1383/Python_Class/tree/Error/External%20errors)
 
 
