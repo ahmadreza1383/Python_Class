@@ -17,4 +17,6 @@ for i in info:
     i = i.split(':')
     dic[i[0]] = i[1]
 print(dic)
+
+#{"brand": "Ford","model": "Mustang","year": 1964 , "name": "ahmadreza"}
     
