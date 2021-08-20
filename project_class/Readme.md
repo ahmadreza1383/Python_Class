@@ -8,6 +8,11 @@ __طریقه اجرا__
 
 [دانلود فایل](https://github.com/ahmadreza1383/Python_Class/raw/test/project_class/project_class.zip)
 
+
+```bash
+https://github.com/ahmadreza1383/Python_Class/raw/test/project_class/project_class.zip
+```
+
 __توضیحات__
 
 پروژه کلاس پایتون 
