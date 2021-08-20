@@ -6,7 +6,7 @@ __طریقه اجرا__
 
 فایل ها رو دانلود کنید و فایل ایندکس را ران کنید
 
-[دانلود فایل](https://github.com/ahmadreza1383/Python_Class.git)
+[دانلود فایل](https://github.com/ahmadreza1383/Python_Class/raw/test/project_class/project_class.zip)
 
 __توضیحات__
 
