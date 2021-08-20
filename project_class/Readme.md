@@ -1,6 +1,6 @@
 # پروژه پایتون
 
-###طریقه اجرا
+### طریقه اجرا
 
 
 
@@ -13,7 +13,7 @@
 https://github.com/ahmadreza1383/Python_Class/raw/test/project_class/project_class.zip
 ```
 
-###توضیحات
+### توضیحات
 
 __پروژه کلاس پایتون__
 
